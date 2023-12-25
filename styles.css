@@ -1,1 +1,17 @@
+body{
+  border: 2px solid blue;
+  
+  color: blue;
+}
+h1,p{
+  text-align: center;
+  color: red;
+}
+input{
+  background-color: lightblue;
+}
+section{
+  background-color: grey;
+  width: 100%;
+}
 
